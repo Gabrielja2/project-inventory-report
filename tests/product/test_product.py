@@ -9,7 +9,7 @@ def test_cria_produto():
         "31-01-2023",
         "31-01-2028",
         "123464783100014",
-        "Não utilizar quando estiver carregando"
+        "Frágil"
     )
 
     assert product.id == 1
