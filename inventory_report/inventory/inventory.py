@@ -18,7 +18,7 @@ class Inventory:
     @classmethod
     def open_csv(self, path, tipo):
         with open(path, encoding="utf-8") as file:
-            inventory_file = csv.DictReader(file, delimiter=",", quotechar='"')
+            inventory_file = csv.DictReader(file)
             if tipo == "simples":
                 return SimpleReport.generate(list(inventory_file))
 
