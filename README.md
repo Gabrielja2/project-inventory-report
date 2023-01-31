@@ -21,7 +21,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
 
-  No projeto passado você implementou algumas funções que faziam leitura e escrita de arquivos `JSON` e `CSV`, correto?
+  No projeto passado você implementou algumas funções que faziam leitura e escrita de arquivos `JSON` e `CSV`.
 
   Neste projeto nós vamos fazer algo parecido, mas utilizando a Programação Orientada a Objetos! Você implementará um **gerador de relatórios** que recebe como entrada arquivos com dados de um estoque e gera, como saída, um relatório acerca destes dados.
 
